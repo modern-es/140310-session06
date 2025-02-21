@@ -1,0 +1,8 @@
+Chart:
+    1. SVG - Vector base - kendo, stimulsoft, d3
+    2. Canvas - Raster  - charthjs
+
+
+
+Maps:
+    
